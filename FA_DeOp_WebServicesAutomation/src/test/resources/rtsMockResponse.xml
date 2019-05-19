@@ -1,0 +1,18 @@
+<Response>
+  <Metadata>
+    <DocumentIdentifier>3</DocumentIdentifier>
+  </Metadata>
+  <AggregateScore>
+    <DocumentScoreValue>1.5E2</DocumentScoreValue>
+    <DocumentRiskRating>2</DocumentRiskRating>
+    <NetworkScoreValue>1.5E2</NetworkScoreValue>
+    <NetworkRiskRating>2</NetworkRiskRating>
+  </AggregateScore>
+  <Scores>
+    <!--Zero or more repetitions:-->
+    <Score id="string">
+      <Value>1.5E2</Value>
+      <Description>string</Description>
+    </Score>
+  </Scores>
+</Response>
