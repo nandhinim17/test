@@ -1,0 +1,8 @@
+<Request>
+  <RequestType>string</RequestType>
+  <ClaimDocument>
+    <Claim>
+      <ClaimNumber>3</ClaimNumber>
+    </Claim>
+  </ClaimDocument>
+</Request>

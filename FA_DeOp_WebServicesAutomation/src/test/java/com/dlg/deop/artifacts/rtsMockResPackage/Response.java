@@ -5,9 +5,7 @@
 // Generated on: 2019.05.18 at 07:36:10 PM BST 
 //
 
-
-package rtsMockResPackage;
-
+package com.dlg.deop.artifacts.rtsMockResPackage;
 import java.util.ArrayList;
 import java.util.List;
 import javax.xml.bind.annotation.XmlAccessType;
@@ -85,7 +83,7 @@ import javax.xml.bind.annotation.XmlType;
  * 
  */
 @XmlAccessorType(XmlAccessType.FIELD)
-@XmlType(name = "", propOrder = {
+@XmlType(name = "Response", propOrder = {
     "metadata",
     "aggregateScore",
     "scores"
@@ -300,7 +298,7 @@ public class Response {
      * 
      */
     @XmlAccessorType(XmlAccessType.FIELD)
-    @XmlType(name = "", propOrder = {
+    @XmlType(name = "MetaData", propOrder = {
         "documentIdentifier"
     })
     public static class Metadata {

@@ -6,7 +6,7 @@
 //
 
 
-package rtsMockReqPackage;
+package com.dlg.deop.artifacts.rtsMockReqPackage;
 
 import javax.xml.bind.annotation.XmlRegistry;
 
